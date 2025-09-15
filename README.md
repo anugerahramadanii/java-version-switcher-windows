@@ -20,7 +20,7 @@ It updates `JAVA_HOME` and `Path` **system-wide**, so you don’t need to manual
 
 1. Clone the repository:
    ```powershell
-   git clone https://github.com/YOUR_USERNAME/java-version-switcher-windows.git
+   git clone https://github.com/anugerahramadanii/java-version-switcher-windows.git
    cd java-version-switcher-windows
 
 ## 🚀 Usage
