@@ -2,7 +2,6 @@
 
 [![PowerShell](https://img.shields.io/badge/PowerShell-%233333FF.svg?logo=powershell&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)]()
-[![License](https://img.shields.io/badge/license-MIT-green)]()
 
 A simple **PowerShell script** to switch between multiple **Java versions** on Windows.  
 It updates `JAVA_HOME` and `Path` **system-wide**, so you don’t need to manually configure environment variables each time.  
