@@ -24,10 +24,11 @@ It updates `JAVA_HOME` and `Path` **system-wide**, so you don’t need to manual
    cd java-version-switcher-windows
 
 ## 🚀 Usage
-1. Enter dir C:\Scripts\JavaSwitchers\
-2. eq:
+1. run PowerShell as administrator 
+2. Enter dir C:\Scripts\JavaSwitchers\
+3. eq:
    .\switch-java.ps1 8
    .\switch-java.ps1 17
    .\switch-java.ps1 21
-3. Close and Open new powershell
-4. Check current version: java -version
+4. Close and Open new powershell
+5. Check current version: java -version
